@@ -30,6 +30,7 @@ void VFS::listDirectories() const {
         std::cout << "- " << directory.getName() << std::endl;
     }
 }
+//this is a comment
 
 int main() {
     VFS vfs;
